@@ -1,4 +1,4 @@
-#SproutingHop.github.io
+# SproutingHope.github.io
 This is the source for the Sprouting Hope Inc. Website.
 
 Sprouting Hope feeds the community by growing and sharing healthy produce.
