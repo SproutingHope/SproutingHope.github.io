@@ -6,7 +6,7 @@ Sprouting Hope feeds the community by growing and sharing healthy produce.
 contact@sproutinghope.org
 
 www.sproutinghope.org
-facebook.com/SproutingHope
+https://facebook.com/SproutingHope
 
 +1 276 212 1202
 
